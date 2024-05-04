@@ -1,0 +1,12 @@
+{
+  "name": "my-whatsappbot",
+  "version": "2.3.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install whatsapp-web.js qrcode-terminal",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
